@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="1" it="0" lt="0" ct="0" ts="1534236007142" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="702" sby="0" ng="1" na="1"/>
+<httpSample t="182" it="0" lt="182" ct="111" ts="1534236007342" s="true" lb="查询号码" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="835" sby="1201" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="77" it="0" lt="77" ct="39" ts="1534236007603" s="true" lb="解压报文" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="2046" sby="764" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="199" it="0" lt="199" ct="0" ts="1534236007684" s="true" lb="号码选占" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="692" sby="1028" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="610" it="0" lt="609" ct="34" ts="1534236007884" s="false" lb="开户申请" rc="560" rm="" tn="测试控制器 1-1" dt="text" by="433" sby="1242" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;msg&quot;:&quot;成功&quot;/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="55" it="0" lt="55" ct="0" ts="1534236008553" s="true" lb="查询号码" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="839" sby="1201" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1534236008611" s="true" lb="解压报文" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="2046" sby="774" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="190" it="0" lt="190" ct="0" ts="1534236008653" s="true" lb="号码选占" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="692" sby="1028" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="383" it="0" lt="383" ct="0" ts="1534236008846" s="false" lb="开户申请" rc="560" rm="" tn="测试控制器 1-1" dt="text" by="447" sby="1242" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;msg&quot;:&quot;成功&quot;/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="54" it="0" lt="54" ct="0" ts="1534236009289" s="true" lb="查询号码" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="839" sby="1201" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="36" it="0" lt="36" ct="0" ts="1534236009344" s="true" lb="解压报文" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="2046" sby="776" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="0" ts="1534236009383" s="true" lb="号码选占" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="692" sby="1028" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="416" it="0" lt="416" ct="0" ts="1534236009591" s="false" lb="开户申请" rc="560" rm="" tn="测试控制器 1-1" dt="text" by="433" sby="1242" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;msg&quot;:&quot;成功&quot;/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="99" it="0" lt="99" ct="42" ts="1534236010066" s="true" lb="查询号码" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="835" sby="1201" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="69" it="0" lt="68" ct="32" ts="1534236010166" s="true" lb="解压报文" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="2046" sby="760" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1534236010240" s="true" lb="号码选占" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="692" sby="1028" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="514" it="0" lt="513" ct="34" ts="1534236010424" s="false" lb="开户申请" rc="560" rm="" tn="测试控制器 1-1" dt="text" by="433" sby="1242" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;msg&quot;:&quot;成功&quot;/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="53" it="0" lt="52" ct="0" ts="1534236010983" s="true" lb="查询号码" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="835" sby="1201" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="44" it="0" lt="44" ct="0" ts="1534236011039" s="true" lb="解压报文" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="2046" sby="782" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1534236011085" s="true" lb="号码选占" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="692" sby="1028" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="926" it="0" lt="925" ct="0" ts="1534236011294" s="true" lb="开户申请" rc="200" rm="" tn="测试控制器 1-1" dt="text" by="321" sby="1242" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="143" it="0" lt="143" ct="0" ts="1534236012281" s="true" lb="开户处理" rc="200" rm="" tn="测试控制器 1-1" dt="text" by="301" sby="601" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="227" it="0" lt="227" ct="33" ts="1534236012426" s="false" lb="写卡查询" rc="560" rm="" tn="测试控制器 1-1" dt="text" by="519" sby="577" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;msg&quot;:&quot;获取写卡数据成功&quot;/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="120" it="0" lt="119" ct="0" ts="1534236012657" s="true" lb="写卡通知" rc="200" rm="" tn="测试控制器 1-1" dt="text" by="461" sby="663" ng="1" na="1"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1534236012778" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="测试控制器 1-1" dt="text" by="1489" sby="0" ng="1" na="1"/>
+
+</testResults>

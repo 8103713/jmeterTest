@@ -1,0 +1,6 @@
+channel_id,channel_type,city_code,province_code,staff_id,city,cert_address,cert_expire_date,cert_num,cert_type,cust_type,customer_name,contact_address,contact_person,contact_phone,operator_id,district,province,recom_depart_id,recom_person_id,recom_person_name,icc_id
+97a0001,1010200,971,97,hl-zhaoyj9,971,太空地球中国哈尔滨证件地址,20500101,1111111,08,01,自动化测试,太空地球中国哈尔滨联系地址,李二毛,18600000000,hl-zhaoyj9,000000,97,31a0007,3101212730,www.10010.com,8986011689703001661
+11a0399,1030100,110,11,duanxy26,110,太空地球中国哈尔滨证件地址,20500101,1111111,08,01,自动化测试,太空地球中国哈尔滨联系地址,李二毛,18600000000,duanxy26,0,11,11a0399,1101211177,www.10010.com,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,, ,,,,,,,,,,,,,,,
